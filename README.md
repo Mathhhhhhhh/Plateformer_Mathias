@@ -38,4 +38,11 @@ pas encore fait pour les keys, et ouverture portes
 - Pas fait endurance, dash
 - Pas fait système de combat, PV, compétences, ennemis
 
-J'ai fait plus que l'étape 1 prévue dans le doc
+J'ai fait plus que l'étape 1 prévue dans le doc.
+J'ai eu un problème, en installant les packs d'assets j'ai
+commit des levels de démo trop gros et j'ai continué de
+travailler pendant que je les pushais (franglais), et du
+coup je n'ai pas pu les supprimer, ni du commit, ni depuis
+les fichiers locaux, donc j'ai recréé un github avec un
+unique push. Désolé si vous vouliez voir les différents
+commits.
